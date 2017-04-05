@@ -1,6 +1,6 @@
 @extends('layout.app')
 @section('page-content')
-<div class="container">
+<div class="container-fluid custom-container">
     <h1>Welcome to Simple Blog</h1>
     <p>
         This is just a simple Laravel sample app. Manage the posts from the admin panel.

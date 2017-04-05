@@ -28,8 +28,8 @@ class DatabaseInit extends Migration
     {
         Schema::drop('posts');
         Schema::drop('password_resets');
-        Schema::drop('users');
         Schema::drop('user_details');
+        Schema::drop('users');
     }
 
     private function createUserDetails()

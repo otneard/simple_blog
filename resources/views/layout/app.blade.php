@@ -1,6 +1,6 @@
 @extends('layout.default')
 @section('content')
-    <nav class="navbar navbar-inverse">
+    <nav class="navbar navbar-inverse custom-navbar">
         <div class="container">
             <div class="navbar-header">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#admin-navbar" aria-expanded="false">
